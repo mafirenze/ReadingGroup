@@ -22,6 +22,8 @@ Xu et al., TPAMI 2023
 
 ### Fall 2024
 
+#### September 12
+
 #### September 3
 View Morphing
 \
